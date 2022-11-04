@@ -1,4 +1,4 @@
-# Metarhizium_guizhouense-genome-assembly
+# *Metarhizium* *guizhouense* genome-assembly
 
 ## Subtitulo
 
@@ -8,4 +8,5 @@ Descripción:
 ~~~
 fastqc -h
 ~~~
+
 
